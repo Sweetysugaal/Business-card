@@ -1,25 +1,25 @@
-body{
-    margin: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.card-img{
-    width: 150px;
+.card-img {
+  width: 150px;
 }
-.card{
-    justify-content:space-around;
-    display: flex;
-    padding: 20px;
-    width: 450px;
-    margin: 0px auto;
-    border-bottom: 3px solid purple;
-    background-color: #d8cefe;
-    color: #2b2839;
+.card {
+  justify-content: space-around;
+  display: flex;
+  padding: 20px;
+  width: 450px;
+  margin: 0px auto;
+  border-bottom: 3px solid purple;
+  background-color: #d8cefe;
+  color: #2b2839;
 }
-.border-blue{
-    border: 1px solid blue;
-    padding: 10px;
-    text-align: center;
+.border-blue {
+  border:3px solid blue;
+  padding: 10px;
+  text-align: center;
 }
-.txt{
-    margin-top: 60px;
+.txt {
+  margin-top: 60px;
 }
